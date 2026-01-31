@@ -42,7 +42,7 @@ git clone https://github.com/seu-usuario/rdr2-mod-manager.git
 cd rdr2-mod-manager
 
 # Rode diretamente
-python rdr2_mod_managertk.py
+python rdr2_mod_manager.py
 ```
 
 ### Opção 3 — Fazer sua própria build
@@ -74,7 +74,7 @@ O executável será gerado na pasta `dist/`.
 
 ```
 rdr2-mod-manager/
-├── rdr2_mod_managertk.py   # Código fonte principal
+├── rdr2_mod_manager.py   # Código fonte principal
 ├── build.py                # Script para gerar o .exe com PyInstaller
 ├── requirements.txt        # Dependências (apenas PyInstaller para build)
 ├── .gitignore              # Arquivos ignorados pelo Git
