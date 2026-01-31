@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+
+# PyInstaller build
+build/
+dist/
+*.spec
+
+# IDE - PyCharm / IntelliJ
+.idea/
+
+# Logs gerados pelo programa
+logs/
+
+# Executável compilado (usuários devem fazer a própria build)
+*.exe
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+# Este projeto usa apenas bibliotecas padrão do Python (tkinter, os, logging).
+# Nenhuma dependência externa é necessária.
+# Para a build do executável, instale o PyInstaller:
+pyinstaller>=6.0
